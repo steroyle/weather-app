@@ -1,0 +1,26 @@
+.location-search {
+  height: 25px;
+  font-size: 18px;
+  padding: 5px;
+  margin: 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+}
+
+button.submit {
+  height: 39px;
+  font-size: 18px;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+select {
+  height: 37px;
+  font-size: 18px;
+  padding: 5px;
+  margin: 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+}
